@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "HighlightedTextEditor",
+        "repositoryURL": "https://github.com/kyle-n/HighlightedTextEditor",
+        "state": {
+          "branch": null,
+          "revision": "3eff60b982a2d3d275546bd8d84bf62bc6ce3735",
+          "version": "2.0.1"
+        }
+      },
+      {
+        "package": "Proton",
+        "repositoryURL": "https://github.com/rajdeep/proton.git",
+        "state": {
+          "branch": null,
+          "revision": "49039bbbc47f777460c3b9712979699df6e8808c",
+          "version": "0.6.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
